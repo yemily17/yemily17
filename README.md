@@ -1,24 +1,43 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,100:C9A227&height=200&section=header&text=Emily%20Yin%20-%20CS%20%40%20Columbia&fontSize=28&fontColor=F8F5F2&animation=fadeIn)
+
+# Emily Yin - CS @ Columbia
+
+[![GitHub followers](https://img.shields.io/github/followers/yemily17?label=Followers&style=flat-square&color=2E7D32)](https://github.com/yemily17?tab=followers)
+[![GitHub repos](https://img.shields.io/badge/Public%20Repos-26-2E7D32?style=flat-square)](https://github.com/yemily17?tab=repositories)
+[![GitHub profile](https://img.shields.io/badge/GitHub-Profile-0B2A1E?style=flat-square&logo=github)](https://github.com/yemily17)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+Computer Science student at Columbia University in the City of New York. Based in the US, working in the America/New_York time zone. Building projects across the GitHub ecosystem.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+## Signals
+| Signal | Value |
+| --- | --- |
+| GitHub username | yemily17 |
+| Public repositories | 26 |
+| Followers / Following | 10 / 5 |
+| GitHub member since | 2019 |
+| Education | Columbia University (Computer Science) |
+| Country | US |
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+| | |
+| --- | --- |
+| [![CoachesFieldGuide](https://github-readme-stats.vercel.app/api/pin/?username=yemily17&repo=CoachesFieldGuide&title_color=2E7D32&icon_color=C9A227&text_color=0B2A1E&bg_color=F8F5F2&hide_border=true)](https://github.com/yemily17/CoachesFieldGuide) | [![MagicClock](https://github-readme-stats.vercel.app/api/pin/?username=yemily17&repo=MagicClock&title_color=2E7D32&icon_color=C9A227&text_color=0B2A1E&bg_color=F8F5F2&hide_border=true)](https://github.com/yemily17/MagicClock) |
+| [![pinpoint](https://github-readme-stats.vercel.app/api/pin/?username=yemily17&repo=pinpoint&title_color=2E7D32&icon_color=C9A227&text_color=0B2A1E&bg_color=F8F5F2&hide_border=true)](https://github.com/yemily17/pinpoint) | [![SpotifySeasons](https://github-readme-stats.vercel.app/api/pin/?username=yemily17&repo=SpotifySeasons&title_color=2E7D32&icon_color=C9A227&text_color=0B2A1E&bg_color=F8F5F2&hide_border=true)](https://github.com/yemily17/SpotifySeasons) |
+| [![yemily17.github.io](https://github-readme-stats.vercel.app/api/pin/?username=yemily17&repo=yemily17.github.io&title_color=2E7D32&icon_color=C9A227&text_color=0B2A1E&bg_color=F8F5F2&hide_border=true)](https://github.com/yemily17/yemily17.github.io) | |
 
-## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+## Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yemily17&show_icons=true&title_color=2E7D32&icon_color=C9A227&text_color=0B2A1E&bg_color=F8F5F2&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yemily17&layout=compact&title_color=2E7D32&text_color=0B2A1E&bg_color=F8F5F2&hide_border=true)
+
+## Streaks
+![GitHub streak](https://streak-stats.demolab.com?user=yemily17&hide_border=true&ring=2E7D32&fire=C9A227&currStreakNum=0B2A1E&sideNums=0B2A1E&currStreakLabel=2E7D32&sideLabels=2E7D32&dates=0B2A1E&background=F8F5F2)
+
+## Quick Links
+- GitHub: https://github.com/yemily17
+- Repositories: https://github.com/yemily17?tab=repositories
+- Followers: https://github.com/yemily17?tab=followers
+
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
